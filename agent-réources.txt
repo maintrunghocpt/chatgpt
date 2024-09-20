@@ -1,0 +1,18 @@
+t sounds like you're looking for resources to help make responses from an AI agent more friendly and engaging. Here are some sources that might be helpful:
+
+Books and Articles on AI Communication:
+
+"Conversational Design" by Erika Hall
+"Designing Bots: Creating Conversational Experiences" by Amir Shevat
+Online Courses and Workshops:
+
+Coursera and Udemy offer courses on chatbot design and conversational AI that often cover best practices for creating engaging and friendly interactions.
+Industry Blogs and Websites:
+
+Chatbots Magazine and Botpress Blog often have articles on best practices for conversational design and creating a friendly user experience.
+AI Development Frameworks:
+
+Frameworks like Dialogflow, Microsoft Bot Framework, and Rasa often include resources and best practices for designing engaging conversations.
+Community Forums:
+
+Reddit (e.g., r/Chatbots, r/ConversationalAI) and Stack Overflow can be great places to discuss and learn from others’ experiences in designing friendly AI interactions.
